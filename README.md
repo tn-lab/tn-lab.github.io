@@ -1,2 +1,2 @@
-**Telecommunications and Networking Laboratory (TNlab)**
+**Telecommunications and Networking Laboratory (TN lab)**
 
