@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- [**Google Scholar**](https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en){:target="_blank"}
+- [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=cwdP-oYAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}
 - [**Codes on GitHub**](https://github.com/trinhudo?tab=repositories){:target="_blank"}
 
 ## 2023
