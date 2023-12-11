@@ -1,10 +1,11 @@
-# Tri Nhu Do
-**Postdoctoral Research Fellow**  
-[Resilient Machine Learning Institute (ReMI)](https://remi-institute.com/)  
-[École de Technologie Supérieure (ÉTS)](https://www.etsmtl.ca/)  
-Université du Québec    
-Montréal, Canada  
-*Email: tri-nhu.do (at) etsmtl.ca*
+Telecommunications and Networking Laboratoty (TN-lab)
+
+Tri Nhu Do  
+Assistant Professor  
+Department of Electrical Engineering  
+Polytechnique Montréal  
+Montréal, Québec, Canada  
+
 
 # Jekyll / minima
 
