@@ -1,4 +1,4 @@
-Telecommunications and Networking Laboratoty (TN-lab)
+Telecommunications and Networking Laboratory (TN-lab)
 
 Tri Nhu Do  
 Assistant Professor  
