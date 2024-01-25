@@ -1,9 +1,8 @@
 title: Telecommunications and Networking Laboratory (TN Lab)
-description : "Tri Nhu Do, Polytechnique Montréal"
+description : "Polytechnique Montréal"
 
 author:
-  name: Tri Nhu Do
-  email: tri-nhu.do@polymtl.ca
+  name: TN-lab
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
