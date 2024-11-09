@@ -1,8 +1,8 @@
-title: Telecommunications and Networking Laboratory (TN Lab)
+title: Telecom & Neural (TN) Lab
 description : "Polytechnique Montréal"
 
 author:
-  name: TN-lab
+  name: TN Lab
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -28,7 +28,6 @@ plugins:
   # Generate social links in footer.
   #
 #   social_links:
-#     - { platform: flickr,         user_url: "https://www.flickr.com/people/tri-nhu-do/" }
 #     - { platform: github,         user_url: "https://github.com/trinhudo" }
 #     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=cwdP-oYAAAAJ&hl=en" }
 #     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/tri-nhu-do" }
