@@ -1,6 +1,7 @@
 ---
 title: Papers
 layout: page
+order: 3
 ---
 
 Our recent papers:
