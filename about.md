@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permanlink: /about
+order: 1
 ---
 
 This is an About page, created directly on Github.
