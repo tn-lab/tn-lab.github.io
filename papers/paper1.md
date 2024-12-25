@@ -1,7 +1,7 @@
 ---
 title: Paper 1
 layout: page
-exclude: true
+nav: false
 ---
 
 Paper 1 is ...
