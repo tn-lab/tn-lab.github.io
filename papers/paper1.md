@@ -1,6 +1,6 @@
 ---
 title: Paper 1
-layout: post
+layout: default
 ---
 
 Paper 1 is ...
