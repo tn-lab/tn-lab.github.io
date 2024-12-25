@@ -1,6 +1,6 @@
 ---
 title: Paper 1
-layout: default
+layout: page
 exclude: true
 ---
 
