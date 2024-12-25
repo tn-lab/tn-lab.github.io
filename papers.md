@@ -4,6 +4,6 @@ layout: page
 ---
 
 Our recent papers:
-- A
+- [Paper 1](/papers/paper1)
 - B
 - C
