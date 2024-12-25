@@ -18,6 +18,15 @@
           </span>
         </label>
 
+        {% for page in site.pages %}
+          {% unless page.exclude %}
+             {% if page.title %}
+               <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+             {% endif %}
+          {% endunless %}
+        {% endfor %}
+
+        <!--
         <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -26,6 +35,7 @@
             {%- endif -%}
           {%- endfor -%}
         </div>
+        -->
         
       </nav>
     {%- endif -%}
