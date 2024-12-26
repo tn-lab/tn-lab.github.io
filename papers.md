@@ -1,7 +1,7 @@
 ---
 title: Papers
 layout: page
-order: 3
+exclude: true
 ---
 
 Our recent papers:
