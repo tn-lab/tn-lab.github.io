@@ -3,10 +3,10 @@ title: Publications
 layout: page
 ---
 
-Our lab contributes to research through various types of publications, including papers, source codes, books, and more.
+Our lab contributes to research through various types of publications, including:
 - [Papers](#papers)
 - [Source codes](#source-codes) 
-- Books
+- [Books](https://telecombook.net/intro.html)
 - [click on this link](#my-multi-word-header)
 
 ---
@@ -22,3 +22,9 @@ Our recent papers:
 - C
 
 # Source codes
+
+## Codes of our papers
+
+## Demos 
+
+[**Back to top**](#papers)
