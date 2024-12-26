@@ -6,4 +6,4 @@ exclude: true
 
 Paper 1 is ...
 
-[Back to Papers](./publications#papers)
+[Back to Pubications](./publications)
