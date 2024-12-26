@@ -7,7 +7,6 @@ Our lab contributes to research through various types of publications, including
 - [Papers](#papers)
 - [Source codes](#source-codes) 
 - [Books](https://telecombook.net/intro.html)
-- [click on this link](#my-multi-word-header)
 
 ---
 
@@ -20,6 +19,8 @@ Our recent papers:
 - [Paper 1](/papers/paper1)
 - B
 - C
+
+---
 
 # Source codes
 
